@@ -7,6 +7,7 @@
 3. Semi-structured
 
 _Structured_
+
 Data that has a set format for efficient access by both software and people is referred to as structured data. Typically, it is tabular with clearly defined rows and columns for data properties.
 
 ### Examples
