@@ -1,8 +1,11 @@
 ## About-bigdata
-## Big Data With Examples and Types
+### Big Data With Examples and Types
 1.Structured
+
 2.Unstructured
+
 3.Semi-structured
+
 **##_Structured_** 
 Data that has a set format for efficient access by both software and people is referred to as structured data. Typically, it is tabular with clearly defined rows and columns for data properties.
 **#Examples**
