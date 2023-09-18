@@ -10,7 +10,7 @@
 
 Data that has a set format for efficient access by both software and people is referred to as structured data. Typically, it is tabular with clearly defined rows and columns for data properties.
 
-##### Examples
+#### Examples
 
 Tables, Relational Databases, XML, JSON
 
@@ -21,11 +21,12 @@ Tables, Relational Databases, XML, JSON
 | 3   | Bob  | 35  |
 
 
+
 **_Unstructured_**
 
 Unstructured data, which includes emails, text messages, photos, videos, and audio files, is all the information that isn't predetermined and searchable in a table. Unstructured data cannot be immediately evaluated and searched without additional processing, in contrast to structured data, which can be easily inserted into tables like those available in Microsoft Excel.
 
-##### Examples
+#### Examples
 
 Books, Journals, Documents, metadata, audio, videos
 
