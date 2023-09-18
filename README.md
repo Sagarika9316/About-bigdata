@@ -12,11 +12,14 @@ Data that has a set format for efficient access by both software and people is r
 
 ##### Examples
 
-Tables, Relational Databases,XML, JSON
+Tables, Relational Databases, XML, JSON
 
-Tables
-|Sno|Name|age|
-|---|---|---|
+| Sno | Name | Age |
+| --- | ---  | --- |
+| 1   | John | 30  |
+| 2   | Jane | 25  |
+| 3   | Bob  | 35  |
+
 
 **_Unstructured_**
 
