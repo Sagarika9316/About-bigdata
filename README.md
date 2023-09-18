@@ -1,5 +1,5 @@
-**About-bigdata**
-**##Big Data With Examples and Types**
+## About-bigdata
+## Big Data With Examples and Types
 1.Structured
 1.Unstructured
 1.Semi-structured
