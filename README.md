@@ -110,8 +110,8 @@ stateDiagram-v2
 
   **_Data Analysis_**
 
-  1.**_Query Process_** :Query is a way to get useful data subsets by some process like abstract modellingand standardizing them to one another
-        .Exammple - Data base modelling, semantic data modelling
+  1.**_Query Process_** : Query is a way to get useful data subsets by some process like abstract modellingand standardizing them to one another
+        .Exammple - Database modelling, semantic data modelling
 
   2.**_No SQL_** : Certain methods in big data and queries cannot only be done by SQL queries we have to use no sql in such cases
 
@@ -137,18 +137,18 @@ stateDiagram-v2
     In generating Big Data, it is important to ensure that the information is securely collected, processed, transmitted, stored, and accessed in accordance with 
      established rules.[3]
 
-     For more information on  privacy concerns of big data and some solutions **click on the image below **_visit this_** [![Privacy concerns in Bigdata](https://tse1.mm.bing.net/th?id=OVP.-pi2Yb0bJe0gGqJGNrm1ZQHgFo&pid=Api&h=360&w=480&c=7&rs=1)](http://www.youtube.com/watch?v=y8yMlMBCQiQ)
+     For more information on  privacy concerns of big data and some solutions **click on the image below** **_visit this_** [![Privacy concerns in Bigdata](https://tse1.mm.bing.net/th?id=OVP.-pi2Yb0bJe0gGqJGNrm1ZQHgFo&pid=Api&h=360&w=480&c=7&rs=1)](http://www.youtube.com/watch?v=y8yMlMBCQiQ)[4]
 
 
      
 
      **_Scaling_**
-     As the data increases and getting adopted to newer technologies is nothing but increasing the harddisk space!!
-     And yeah data volume increases faster and scaling is neccessary, changing storage subsystem potentially touches every aspect of data processing too
+     As the data increases and getting adopted to newer technologies is nothing but increasing the hard disk space!!
+     And yeah data volume increases faster and scaling is necessary, changing storage subsystem potentially touches every aspect of data processing too
 
      **_Timeliness_**
-     All things have deadliness and analysis and descision making is quite important,if there involves a huge data set cleaning is must, one cannot skip the step and it takes much time to even clean the data.
-     And some problems of cleaning data and searching the appropriate answer requires a huge time. There is a need for new index strctures that are need based on the features
+     All things have deadliness and analysis and decision-making making is quite important,if there is a huge data set cleaning is a must, one cannot skip the step and it takes much time to even clean the data.
+     And some problems of cleaning data and searching for the appropriate answer require a huge time. There is a need for new index strategies that are need based on the features
 
      **_Incompleteness_**
      The ubiquitous problem of data sets lacking all the information necessary for thorough analysis or decision-making is referred to as the "big data incompleteness challenge." Big data frequently contains missing, 
@@ -157,9 +157,10 @@ stateDiagram-v2
 
 
 
-[1]https://link.springer.com/chapter/10.1007/978-3-319-21569-3_4
-[2]https://www.selecthub.com/big-data-analytics/big-data-integration/
-[3]https://www.frontiersin.org/articles/10.3389/fdata.2021.645204/full
+[1]Lyko, K., Nitzschke, M., & Ngomo, A. N. (2016). Big data acquisition. In _Springer eBooks_ (pp. 39–61). https://doi.org/10.1007/978-3-319-21569-3_4
+[2]Allen, R. (2023, September 6). _Big Data Integration In 2023 | Challenges, Tasks & Tools._  https://www.selecthub.com/big-data-analytics/big-data-integration/
+[3]Bentotahewa, V., Hewage, C., & Williams, J. (2021). Solutions to big data privacy and security challenges associated with COVID-19 surveillance systems._Frontiers in Big Data_, 4. https://doi.org/10.3389/fdata.2021.645204
+[4]THINKR.(2013)._Dangers of Big Data_.Youtube.https://www.youtube.com/watch?v=y8yMlMBCQiQ
 
 
 
