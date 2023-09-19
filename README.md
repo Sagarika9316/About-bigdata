@@ -78,12 +78,11 @@ Email
 ## Phases of Big Data Analysis.
 ```mermaid
 stateDiagram-v2
-   [*] --> select_date
-   select_date --> select_time
-   select_time --> current_status
-   current_status --> cancel: status_available
-   current_status --> [*]: status_over
-   cancel --> [*]
+   [*] --> Acquisition/recording
+  Acquisition/recording --> Extraction Cleaning/Annotation
+   Extraction Cleaning/Annotation --> Integration
+   Integration --> Analysis
+   Analysis --> Interpretation
 ```
 
 
