@@ -106,7 +106,9 @@ stateDiagram-v2
   **Data Analysis**
 
   1.**_Query Process_** :Query is a way to get useful data subsets by some process like abstract modellingand standardizing them to one another
-        .Exammple - Data
+        .Exammple - Data base modelling, semantic data modelling
+
+  2.**_No SQL_** : Certain methods in big data and queries cannot only be done by SQL queries we have to use no sql in such cases
 
 
 
