@@ -78,12 +78,13 @@ Email
 ## Phases of Big Data Analysis.
 
 ```mermaid
-pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
+
 
 
 
