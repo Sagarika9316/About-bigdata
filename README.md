@@ -76,14 +76,17 @@ Email
      Value is nothing but the usefulness of data for a particular purpose. The final goal might be the usage of any big data analytics system to extract valuable insights from the data.
      
 ## Phases of Big Data Analysis.
-
 ```mermaid
-graph TD;
-    A-->B
-    B-->C
-    C-->D
-    D-->Ē
+flowchart TD
+    A{Does it move?}
+    A -->|No| B{Should it?}
+    A -->|Yes| C{Should it?}
+    B -->|No| D[fa:fa-check No problem]
+    B -->|Yes| E[fa:fa-spray-can WD-40]
+    C -->|Yes| F[fa:fa-check No problem]
+    C -->|No| G[fa:fa-tape Duct tape]
 ```
+
  Acquisition/Recording-->Information Extraction and Cleaning;
     Information Extraction and Cleaning-->Data Integration, aggregation and Representation;
     Data Integration Aggregation and representation-->Query processing, Data Modeling and analysis;
