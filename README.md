@@ -51,6 +51,8 @@ Email
 
 . Value
 
+![newimage](https://github.com/Sagarika9316/About-bigdata/assets/89766169/3081fcfc-e84a-4ee9-b5b8-9fb8b74c7a8f)
+
 **. Volume** 
      . The volume of Big data is too large so that it is not capable of fitting in a particular  single machine, we define the volume of big data is vast and many specialized tools and frameworks are required to both store and visualize the process in the data
 
