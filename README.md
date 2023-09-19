@@ -77,15 +77,15 @@ Email
      
 ## Phases of Big Data Analysis.
 ```mermaid
-flowchart TD
-    A{Does it move?}
-    A -->|No| B{Should it?}
-    A -->|Yes| C{Should it?}
-    B -->|No| D[fa:fa-check No problem]
-    B -->|Yes| E[fa:fa-spray-can WD-40]
-    C -->|Yes| F[fa:fa-check No problem]
-    C -->|No| G[fa:fa-tape Duct tape]
+stateDiagram-v2
+   [*] --> select_date
+   select_date --> select_time
+   select_time --> current_status
+   current_status --> cancel: status_available
+   current_status --> [*]: status_over
+   cancel --> [*]
 ```
+
 
  Acquisition/Recording-->Information Extraction and Cleaning;
     Information Extraction and Cleaning-->Data Integration, aggregation and Representation;
