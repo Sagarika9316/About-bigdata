@@ -69,10 +69,10 @@ Email
 **_. Variability_**
       There are certain cases of consistency and inconsistency in data, and the data will be inconsistent in certain cases, such cases need managing and handling with care. For example, social media data is highly sensitive and private it requires certain data management handling techniques whereas data produced by sensors will be inconsistent
       
-**. Veracity**
+**_. Veracity_**
      It refers to the quality of data and verifies whether the data is accurate or not. To get particular values from the data we need to clean the data set and remove the unnecessary part.
      
-**. Value**
+**_. Value_**
      Value is nothing but the usefulness of data for a particular purpose. The final goal might be the usage of any big data analytics system to extract valuable insights from the data.
      
 ## Phases of Big Data Analysis.
@@ -122,20 +122,20 @@ stateDiagram-v2
   4. Incompleteness
   5. Human Collaboration
 
-     **Privacy**
+     **_Privacy_**
      The biggest challenge that ever comes into mind is privacy concern, a lot of information is being observed and grasped by viewers on social media, this can be a present and future concern
      Big data in healthcare,lot of concern on privacy concern in health department since the information of patient keeping secretive is quite questionable
      All ethics and Privacy concerns must be known to every one in the big data field
 
-     **Scaling**
+     **_Scaling_**
      As the data increases and getting adopted to newer technologies is nothing but increasing the harddisk space!!
      And yeah data volume increases faster and scaling is neccessary, changing storage subsystem potentially touches every aspect of data processing too
 
-     **Timeliness**
+     **_Timeliness_**
      All things have deadliness and analysis and descision making is quite important,if there involves a huge data set cleaning is must, one cannot skip the step and it takes much time to even clean the data.
      And some problems of cleaning data and searching the appropriate answer requires a huge time. There is a need for new index strctures that are need based on the features
 
-     **Incompleteness**
+     **_Incompleteness_**
      The ubiquitous problem of data sets lacking all the information necessary for thorough analysis or decision-making is referred to as the "big data incompleteness challenge." Big data frequently contains missing, 
      incorrect, or out-of-date data, which can result in imprecise insights and incorrect conclusions. To address this issue and improve data quality, advanced data cleaning and imputation approaches are required. It 
     also emphasizes the significance of data governance and validation procedures for reducing the influence of incomplete data on the accuracy and dependability of analytical results in the age of big data analytics.
