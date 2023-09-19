@@ -85,11 +85,27 @@ stateDiagram-v2
    Analysis --> Interpretation
 ```
 
+ **Acquisition/Recording**
+ 
+  1. Data is generated from many sources like IoT/Sensors/Computing/Social media etc.
+  2. Some data might not have a lot of importance and the important data can be filtered and compressed by some orders of magnitude
+  3. Certain filters have to be designed for cleaning.
+  4. Storing the right information when the data has been created or so
+       . Example - Storing of pictures in devices
 
- Acquisition/Recording-->Information Extraction and Cleaning;
-    Information Extraction and Cleaning-->Data Integration, aggregation and Representation;
-    Data Integration Aggregation and representation-->Query processing, Data Modeling and analysis;
-    DataModeling and Analysis-->Integration;
+  **Extraction and Cleaning**
+
+  1.**_Information extracting_** : Extracting the information from the sources and express it in a structural form
+  2.**_Data Cleaning_** : Attempting to clean the data set , fill the null values and remove the noise values
+
+  **Data Integration**
+
+  1.Data Integration : Merging from multiple resources
+  2.Data Representation : Using various techniques of visualization like plotting graphs suchs as charts,histogram,bar,boxplots etc
+
+  **Data Analysis**
+
+  1.Query Process : 
 
 
 
