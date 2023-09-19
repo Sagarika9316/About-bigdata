@@ -79,11 +79,15 @@ Email
 
 ```mermaid
 graph TD;
-    Acquisition/Recording-->Information Extraction and Cleaning;
+    A-->B
+    B-->C
+    C-->D
+    D-->Ē
+```
+ Acquisition/Recording-->Information Extraction and Cleaning;
     Information Extraction and Cleaning-->Data Integration, aggregation and Representation;
     Data Integration Aggregation and representation-->Query processing, Data Modeling and analysis;
     DataModeling and Analysis-->Integration;
-```
 
 
 
