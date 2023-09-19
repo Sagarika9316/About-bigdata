@@ -156,7 +156,7 @@ stateDiagram-v2
      incorrect, or out-of-date data, which can result in imprecise insights and incorrect conclusions. To address this issue and improve data quality, advanced data cleaning and imputation approaches are required. It 
     also emphasizes the significance of data governance and validation procedures for reducing the influence of incomplete data on the accuracy and dependability of analytical results in the age of big data analytics.
 
-
+### References
 
 [1]Lyko, K., Nitzschke, M., & Ngomo, A. N. (2016). Big data acquisition. In _Springer eBooks_ (pp. 39–61). https://doi.org/10.1007/978-3-319-21569-3_4
 
