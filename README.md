@@ -90,7 +90,9 @@ stateDiagram-v2
   1. Data is generated from many sources like IoT/Sensors/Computing/Social media etc.
   2. Some data might not have a lot of importance and the important data can be filtered and compressed by some orders of magnitude
   3. Certain filters have to be designed for cleaning.
-  4. Storing the right information when the data has been created or so
+  4. Data acquisition has been understood as the process of gathering, filtering, and cleaning data before the data is put in a data warehouse or any other storage 
+     solution[1]
+  5. Storing the right information when the data has been created or so
        . Example - Storing of pictures in devices
 
   **_Extraction and Cleaning_**
@@ -109,6 +111,8 @@ stateDiagram-v2
         .Exammple - Data base modelling, semantic data modelling
 
   2.**_No SQL_** : Certain methods in big data and queries cannot only be done by SQL queries we have to use no sql in such cases
+
+  My favorite NO SQL is [Neo4j](https://neo4j.com/)
 
   **_Interpretation_**
 
@@ -140,6 +144,9 @@ stateDiagram-v2
      incorrect, or out-of-date data, which can result in imprecise insights and incorrect conclusions. To address this issue and improve data quality, advanced data cleaning and imputation approaches are required. It 
     also emphasizes the significance of data governance and validation procedures for reducing the influence of incomplete data on the accuracy and dependability of analytical results in the age of big data analytics.
 
+
+
+[1]https://link.springer.com/chapter/10.1007/978-3-319-21569-3_4
 
 
 
