@@ -46,7 +46,7 @@ Email
 . Veracity
 . Value
 
-<img id="img" src="https://miro.medium.com/max/2000/1*7oOowGYxS7CvhcXTguRPyw.png">
+
 
 
 **. Volume** 
