@@ -144,14 +144,17 @@ stateDiagram-v2
      
 
      **_Scaling_**
+     
      As the data increases and getting adopted to newer technologies is nothing but increasing the hard disk space!!
      And yeah data volume increases faster and scaling is necessary, changing storage subsystem potentially touches every aspect of data processing too
 
      **_Timeliness_**
+     
      All things have deadliness and analysis and decision-making making is quite important,if there is a huge data set cleaning is a must, one cannot skip the step and it takes much time to even clean the data.
      And some problems of cleaning data and searching for the appropriate answer require a huge time. There is a need for new index strategies that are need based on the features
 
      **_Incompleteness_**
+     
      The ubiquitous problem of data sets lacking all the information necessary for thorough analysis or decision-making is referred to as the "big data incompleteness challenge." Big data frequently contains missing, 
      incorrect, or out-of-date data, which can result in imprecise insights and incorrect conclusions. To address this issue and improve data quality, advanced data cleaning and imputation approaches are required. It 
     also emphasizes the significance of data governance and validation procedures for reducing the influence of incomplete data on the accuracy and dependability of analytical results in the age of big data analytics.
