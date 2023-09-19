@@ -100,12 +100,13 @@ stateDiagram-v2
 
   **Data Integration**
 
-  1.Data Integration : Merging from multiple resources
-  2.Data Representation : Using various techniques of visualization like plotting graphs suchs as charts,histogram,bar,boxplots etc
+  1.**_Data Integration_** : Merging from multiple resources
+  2.**_Data Representation_** : Using various techniques of visualization like plotting graphs suchs as charts,histogram,bar,boxplots etc
 
   **Data Analysis**
 
-  1.Query Process : 
+  1.**_Query Process_** :Query is a way to get useful data subsets by some process like abstract modellingand standardizing them to one another
+        .Exammple - Data
 
 
 
