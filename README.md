@@ -139,7 +139,8 @@ stateDiagram-v2
 
      For more information on  privacy concerns of big data and some solutions
 
-     *click on the image below **_visit this_** [![Privacy concerns in Bigdata](https://tse1.mm.bing.net/th?id=OVP.-pi2Yb0bJe0gGqJGNrm1ZQHgFo&pid=Api&h=360&w=480&c=7&rs=1)](http://www.youtube.com/watch?v=y8yMlMBCQiQ)[4]
+     *click on the image below **_visit this_**
+     [![Privacy concerns in Bigdata](https://tse1.mm.bing.net/th?id=OVP.-pi2Yb0bJe0gGqJGNrm1ZQHgFo&pid=Api&h=360&w=480&c=7&rs=1)](http://www.youtube.com/watch?v=y8yMlMBCQiQ)[4]
 
 
      
