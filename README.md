@@ -39,6 +39,7 @@ The phrase "semi-structured data" (also known as "partially structured data") de
 Email
 
 ### 6 V's of Big Data
+
 . Volume
 
 . Velocity
@@ -61,9 +62,10 @@ Email
 
 **. Variety**
      . It represents the forms of data, we have three forms of data like :
-         **_Structured**
-         **_Unstructured**
-         **_Semi_structured**
+     **_Structured_**
+     **_Unstructured**
+     **_Semi_structured**
+         
 **. Variability**
      . There are certain cases of consistency and inconsistency in data, and the data will be inconsistent in certain cases, such cases need managing and handling with care. For example, social media data is highly sensitive and private it requires certain data management handling techniques whereas data produced by sensors will be inconsistent
 **. Veracity**
