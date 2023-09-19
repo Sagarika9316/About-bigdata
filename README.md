@@ -110,6 +110,36 @@ stateDiagram-v2
 
   2.**_No SQL_** : Certain methods in big data and queries cannot only be done by SQL queries we have to use no sql in such cases
 
+  **Interpretation**
+
+  Interpreting the data and verifying te=he results produced by the computer, for interpreting the data visualizations help a lot, after the interpretation it is ready to make decision making 
+
+  ### Challenges in big data 
+  Following are the challenges in big data:
+  1. Privacy
+  2. Scaling
+  3. Timeline
+  4. Incompleteness
+  5. Human Collaboration
+
+     **Privacy**
+     The biggest challenge that ever comes into mind is privacy concern, a lot of information is being observed and grasped by viewers on social media, this can be a present and future concern
+     Big data in healthcare,lot of concern on privacy concern in health department since the information of patient keeping secretive is quite questionable
+     All ethics and Privacy concerns must be known to every one in the big data field
+
+     **Scaling**
+     As the data increases and getting adopted to newer technologies is nothing but increasing the harddisk space!!
+     And yeah data volume increases faster and scaling is neccessary, changing storage subsystem potentially touches every aspect of data processing too
+
+     **Timeliness**
+     All things have deadliness and analysis and descision making is quite important,if there involves a huge data set cleaning is must, one cannot skip the step and it takes much time to even clean the data.
+     And some problems of cleaning data and searching the appropriate answer requires a huge time. There is a need for new index strctures that are need based on the features
+
+     **Incompleteness**
+     The ubiquitous problem of data sets lacking all the information necessary for thorough analysis or decision-making is referred to as the "big data incompleteness challenge." Big data frequently contains missing, 
+     incorrect, or out-of-date data, which can result in imprecise insights and incorrect conclusions. To address this issue and improve data quality, advanced data cleaning and imputation approaches are required. It 
+    also emphasizes the significance of data governance and validation procedures for reducing the influence of incomplete data on the accuracy and dependability of analytical results in the age of big data analytics.
+
 
 
 
