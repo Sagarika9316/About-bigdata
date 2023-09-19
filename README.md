@@ -160,8 +160,12 @@ stateDiagram-v2
 
 
 [1]Lyko, K., Nitzschke, M., & Ngomo, A. N. (2016). Big data acquisition. In _Springer eBooks_ (pp. 39–61). https://doi.org/10.1007/978-3-319-21569-3_4
+
 [2]Allen, R. (2023, September 6). _Big Data Integration In 2023 | Challenges, Tasks & Tools._  https://www.selecthub.com/big-data-analytics/big-data-integration/
-[3]Bentotahewa, V., Hewage, C., & Williams, J. (2021). Solutions to big data privacy and security challenges associated with COVID-19 surveillance systems._Frontiers in Big Data_, 4. https://doi.org/10.3389/fdata.2021.645204
+
+[3]Bentotahewa, V., Hewage, C., & Williams, J. (2021). Solutions to big data privacy and security challenges associated with COVID-19 surveillance systems._Frontiers in Big Data_, 4. 
+https://doi.org/10.3389/fdata.2021.645204
+
 [4]THINKR.(2013)._Dangers of Big Data_.Youtube.https://www.youtube.com/watch?v=y8yMlMBCQiQ
 
 
