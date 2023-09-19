@@ -79,7 +79,7 @@ Email
 ```mermaid
 stateDiagram-v2
    [*] --> Acquisition/recording
-  Acquisition/recording --> Extraction Cleaning/Annotation
+   Acquisition/recording --> Extraction Cleaning/Annotation
    Extraction Cleaning/Annotation --> Integration
    Integration --> Analysis
    Analysis --> Interpretation
