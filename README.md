@@ -137,7 +137,7 @@ stateDiagram-v2
     In generating Big Data, it is important to ensure that the information is securely collected, processed, transmitted, stored, and accessed in accordance with 
      established rules.[3]
 
-     For more information on  privacy concerns of big data and some solutions visit this [![Privacy concerns in Bigdata](href="https://i.ytimg.com/vi/y8yMlMBCQiQ/hqdefault.jpg")](http://www.youtube.com/watch?v= y8yMlMBCQiQ)
+     For more information on  privacy concerns of big data and some solutions visit this [![Privacy concerns in Bigdata](href="https://i.ytimg.com/vi/y8yMlMBCQiQ/hqdefault.jpg")](http://www.youtube.com/watch?v=y8yMlMBCQiQ)
 
 
      
