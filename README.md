@@ -105,6 +105,9 @@ stateDiagram-v2
   1.**_Data Integration_** : Merging from multiple resources
   2.**_Data Representation_** : Using various techniques of visualization like plotting graphs suchs as charts,histogram,bar,boxplots etc
 
+  ETL is the general workflow of prepping data for analysis, whether it be big or small, integrated or siloed. Because it is a fairly generic term, it is scalable to 
+  big data.[2]
+
   **_Data Analysis_**
 
   1.**_Query Process_** :Query is a way to get useful data subsets by some process like abstract modellingand standardizing them to one another
@@ -112,11 +115,11 @@ stateDiagram-v2
 
   2.**_No SQL_** : Certain methods in big data and queries cannot only be done by SQL queries we have to use no sql in such cases
 
-  My favorite NO SQL is [Neo4j](https://neo4j.com/)
+  My favorite NO SQL  workspace is [Neo4j](https://neo4j.com/)
 
   **_Interpretation_**
 
-  Interpreting the data and verifying te=he results produced by the computer, for interpreting the data visualizations help a lot, after the interpretation it is ready to make decision making 
+  Interpreting the data and verifying the results produced by the computer, for interpreting the data visualizations help a lot, after the interpretation it is ready to make decision making 
 
   ### Challenges in big data 
   Following are the challenges in big data:
@@ -127,9 +130,16 @@ stateDiagram-v2
   5. Human Collaboration
 
      **_Privacy_**
-     The biggest challenge that ever comes into mind is privacy concern, a lot of information is being observed and grasped by viewers on social media, this can be a present and future concern
+     The biggest challenge that ever comes into mind is privacy concern, a lot of information is being observed and grasped by viewers on social media, this can be a 
+     present and future concern
      Big data in healthcare,lot of concern on privacy concern in health department since the information of patient keeping secretive is quite questionable
      All ethics and Privacy concerns must be known to every one in the big data field
+    In generating Big Data, it is important to ensure that the information is securely collected, processed, transmitted, stored, and accessed in accordance with 
+     established rules.[3]
+
+     For more information on  privacy concerns of big data and some solutions visit this [youtubelink].[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
+
+     
 
      **_Scaling_**
      As the data increases and getting adopted to newer technologies is nothing but increasing the harddisk space!!
@@ -147,6 +157,8 @@ stateDiagram-v2
 
 
 [1]https://link.springer.com/chapter/10.1007/978-3-319-21569-3_4
+[2]https://www.selecthub.com/big-data-analytics/big-data-integration/
+[3]https://www.frontiersin.org/articles/10.3389/fdata.2021.645204/full
 
 
 
